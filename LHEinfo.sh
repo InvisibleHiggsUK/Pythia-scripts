@@ -1,7 +1,9 @@
 ######
-# Script to produce the total number of events from an LHE
-# Author: Dominic Smith, University of Bristol/ VUB
-# Date: June 2014
+# 
+# Author: Dominic Smith
+#         University of Bristol/ VUB
+#         June 2014
+#
 # Comments: Run with ./LHEinfo.sh <filename>.lhe
 #####
 
